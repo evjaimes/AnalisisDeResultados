@@ -1,0 +1,7 @@
+﻿  main.c
+c:\users\usuario\source\repos\proyecto2infratec\proyecto2infratec\main.c(54): warning C4101: 'n': variable local sin referencia
+c:\users\usuario\source\repos\proyecto2infratec\proyecto2infratec\main.c(53): warning C4101: 'temp': variable local sin referencia
+c:\users\usuario\source\repos\proyecto2infratec\proyecto2infratec\main.c(283): warning C4554: ">>": compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
+c:\users\usuario\source\repos\proyecto2infratec\proyecto2infratec\main.c(295): warning C4554: ">>": compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
+c:\users\usuario\source\repos\proyecto2infratec\proyecto2infratec\main.c(316): warning C4101: 'i': variable local sin referencia
+  Proyecto2Infratec.vcxproj -> C:\Users\Usuario\source\repos\Proyecto2Infratec\Debug\Proyecto2Infratec.exe
